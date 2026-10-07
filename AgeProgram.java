@@ -22,3 +22,4 @@ public class AgeProgram {
         scanner.close();
     }
 }
+// Program completed successfully
